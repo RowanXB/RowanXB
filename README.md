@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently studying **BSc Neuroscience and Psychology** at (King's College London)[https://www.kcl.ac.uk/]
+- 🔭 I’m currently studying **BSc Neuroscience and Psychology** at [King's College London](https://www.kcl.ac.uk/)
