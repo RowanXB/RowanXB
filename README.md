@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying **BSc Neuroscience and Psychology** at [King's College London](https://www.kcl.ac.uk/)
+- LinkedIn: [https://www.linkedin.com/in/chengyan-tong/](https://www.linkedin.com/in/chengyan-tong/)
