@@ -1,5 +1,4 @@
 # Hi, I'm Chengyan Tong 👋
-童承彦 · RowanXB
 
 I'm studying BSc Neuroscience and Psychology at King's College London.
 I build tools for learning, decision-making, and working with AI.
