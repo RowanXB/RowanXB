@@ -9,7 +9,7 @@ can support both.
 
 ### What I'm working on
 
-- **Xueyuanzhan (学缘站)** — building an AI-native platform for
+- **Xueyuanzhan (学原栈)** — building an AI-native platform for
   knowledge sharing and learning.
 - Turning everyday study and development workflows into reusable
   tools and agent skills.
