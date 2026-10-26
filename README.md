@@ -31,6 +31,3 @@ can support both.
 
 I care about clear reasoning, small changes, and checking whether
 tools work in practice.
-
-[LinkedIn](https://www.linkedin.com/in/chengyan-tong/) ·
-[ORCID](https://orcid.org/0009-0002-7486-2845)
